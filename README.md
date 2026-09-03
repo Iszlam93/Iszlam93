@@ -76,6 +76,12 @@ I build the marketing function, not just the campaign — positioning, partner p
 
 <br>
 
+## Currently building
+
+**MarketMap** — a visual planning workspace for marketing teams. It connects to Asana and turns a list of initiatives into a picture of the plan across the funnel and the year: what's TOFU, MOFU, or BOFU, what's live each quarter, and where the plan has gaps, overload, or duplication — the view I kept rebuilding by hand in spreadsheets and slides, now generated from the work marketers already track. Early-stage and in private discovery.
+
+<br>
+
 ---
 
 <br>
