@@ -1,25 +1,66 @@
-# Hi, I'm Islam 👋
+<div align="center">
 
-**Senior B2B Marketing Manager** — Go-to-market strategy, partner & channel marketing, and demand generation across the Microsoft Dynamics 365 ecosystem in Europe and the Middle East.
+# Islam Elsaeed
 
-I build the marketing function, not just the campaign: positioning, partner programs, demand engines, and the AI-enabled workflows that let a small team run them at scale.
+### Senior B2B Marketing Manager — GTM, Partner Ecosystems & Demand Generation
 
-- 🎯 9+ years in B2B tech marketing across the Netherlands, UAE, and MENA
-- 🚀 Built two marketing functions from scratch at [Companial](https://companial.com) — Enterprise and ISV partner marketing
-- 📈 143+ leads and 50+ CRM opportunities generated in H1 2026 alone
-- ✉️ Email engagement consistently 2×+ industry benchmark (44.68% open rate on 24 personalized journeys)
-- 🏆 Coins Patron award at DynamicsMinds 2025 for highest sponsor lead generation
-- 🤖 Currently building AI-assisted marketing workflows (Asana + Claude) to turn manual campaign ops into repeatable systems
+<sub>Microsoft Dynamics 365 ecosystem · Europe & MENA · 9+ years</sub>
 
-## 📂 See the work
+</div>
 
-**[→ Full portfolio: case studies, funnels & results](https://github.com/Iszlam93/senior-marketing-portfolio)**
-Enterprise Membership launch, the ISV Partner Program, LEAP's launch campaign, and the Fi Global webinar series — each with ownership scope, evidence links, and measured results.
+<br>
 
-## 🛠 Marketing stack
+I build the marketing function, not just the campaign — positioning, partner programs, demand engines, and the systems that let a small team run them at scale.
 
-`Dynamics 365` `Eloqua` `Asana` `LinkedIn Campaign Manager` `Google Ads` `Meta Ads` `ON24` `GA4` `Adobe Analytics` `Figma` `Claude` `ChatGPT`
+<br>
 
-## 📫 Get in touch
+<div align="center">
+
+![Leads](https://img.shields.io/badge/143%2B-Qualified_leads_·_H1_2026-121612?style=flat-square&labelColor=f2eee4)
+![Opportunities](https://img.shields.io/badge/50%2B-CRM_opportunities-121612?style=flat-square&labelColor=f2eee4)
+![Open rate](https://img.shields.io/badge/44.68%25-Email_open_rate_·_2×_benchmark-121612?style=flat-square&labelColor=f2eee4)
+![ROI](https://img.shields.io/badge/6.6×-Campaign_ROI-e86f4c?style=flat-square&labelColor=121612)
+
+</div>
+
+<br>
+
+## What I've built
+
+**Two marketing functions from zero, at [Companial](https://companial.com).** Enterprise and ISV partner marketing — proposition, audience, campaign architecture, and the commercial follow-up model behind them, not isolated campaigns.
+
+**A demand engine that holds up under a lean budget.** 24 personalized email journeys to 2,727 contacts, a LinkedIn campaign beating benchmark CTR by 26%, and a Coins Patron award at DynamicsMinds 2025 for the highest sponsor lead volume.
+
+**An AI-assisted workflow to remove the busywork.** A designed system (Asana intake → scheduled Claude agent → human approval) that turns 20 manual webinar workflows into one repeatable pipeline — full write-up in the portfolio below.
+
+<br>
+
+<div align="center">
+
+### [→ Read the full portfolio](https://github.com/Iszlam93/senior-marketing-portfolio)
+
+<sub>Case studies with ownership scope, evidence links, and measured results — Enterprise Membership, the ISV Partner Program, LEAP's launch, and the Fi Global webinar series.</sub>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="200"><b>Plan & activate</b><br><sub>Asana · Eloqua · Dynamics 365<br>LinkedIn Ads · Google Ads · Meta Ads</sub></td>
+<td align="center" width="200"><b>Build & measure</b><br><sub>ON24 · Figma · GA4<br>Adobe Analytics</sub></td>
+<td align="center" width="200"><b>Scale with AI</b><br><sub>Claude · ChatGPT<br>Antigravity · Copilot</sub></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 [Islam-elsaid@outlook.com](mailto:Islam-elsaid@outlook.com) · [LinkedIn](https://www.linkedin.com/in/islam-el-saeed) · Leiden, Netherlands
+
+</div>
