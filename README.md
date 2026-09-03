@@ -35,6 +35,37 @@ I build the marketing function, not just the campaign — positioning, partner p
 
 <br>
 
+## Where I've worked
+
+<table align="center">
+<tr>
+<th align="left">Company</th>
+<th align="left">Role</th>
+<th align="left">Where</th>
+<th align="left">When</th>
+</tr>
+<tr>
+<td><b><a href="https://companial.com">Companial</a></b></td>
+<td>Product Marketing Manager — Enterprise &amp; ISV</td>
+<td>Amersfoort, NL</td>
+<td>2024 – Present</td>
+</tr>
+<tr>
+<td><b>Informa Markets</b> · <a href="https://webinars.figlobal.com/webinar-series/">Fi Global</a></td>
+<td>Senior Marketing Executive — Digital Products</td>
+<td>Amsterdam, NL</td>
+<td>2022 – 2024</td>
+</tr>
+<tr>
+<td><b>Informa Markets</b> · <a href="https://onegiantleap.com">LEAP</a></td>
+<td>Marketing Executive — Tech Portfolio</td>
+<td>Dubai, UAE</td>
+<td>2019 – 2022</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
 ### [→ Read the full portfolio](https://github.com/Iszlam93/senior-marketing-portfolio)
