@@ -27,7 +27,8 @@ I build the marketing function, not just the campaign — positioning, partner p
 
 ## GitHub contributions
 
-[![GitHub contribution calendar for Islam Elsaeed](https://ghchart.rshah.org/Iszlam93)](https://github.com/Iszlam93?tab=overview#contributions-calendar)
+[View my 2026 contribution calendar on GitHub](https://github.com/Iszlam93?tab=overview&from=2026-11-01&to=2026-11-07#contributions-calendar)
+
 
 <br>
 
