@@ -1,83 +1,29 @@
-<div align="center">
-
 # Islam Elsaeed
 
-### Senior B2B Marketing Manager — GTM, Partner Ecosystems & Demand Generation
+**Senior B2B Marketing Manager** · GTM, partner ecosystems & demand generation<br>
+Microsoft Dynamics 365 ecosystem · Europe & MENA · 9+ years
 
-<sub>Microsoft Dynamics 365 ecosystem · Europe & MENA · 9+ years</sub>
+I build marketing functions from the ground up, from positioning and partner programs to demand generation.
 
-</div>
+**143+** qualified leads in H1 2026 · **50+** CRM opportunities · **44.68%** email open rate · **6.6×** campaign ROI
 
-<br>
+[Full portfolio](https://github.com/Iszlam93/senior-marketing-portfolio) · [LinkedIn](https://www.linkedin.com/in/islam-el-saeed) · [Email](mailto:Islam-elsaid@outlook.com) · Leiden, Netherlands
 
-I build the marketing function, not just the campaign — positioning, partner programs, demand engines, and the systems that let a small team run them at scale.
+<details>
+<summary>What I've built and where I've worked</summary>
 
-<br>
+### What I've built
 
-<div align="center">
+- **Built two marketing functions at [Companial](https://companial.com/).** Defined the proposition, audience, campaigns, and commercial follow-up for Enterprise and ISV partner marketing.
+- **Built a demand engine on a lean budget.** Delivered 24 personalized email journeys to 2,727 contacts, beat the LinkedIn campaign CTR benchmark by 26%, and earned the Coins Patron award for the highest sponsor lead volume at DynamicsMinds 2025.
+- **Designed an AI-assisted webinar workflow.** Consolidates 20 manual workflows into one process with Asana intake, a scheduled Claude agent, and human approval.
 
-![Leads](https://img.shields.io/badge/143%2B-Qualified_leads_·_H1_2026-121612?style=flat-square&labelColor=f2eee4)
-![Opportunities](https://img.shields.io/badge/50%2B-CRM_opportunities-121612?style=flat-square&labelColor=f2eee4)
-![Open rate](https://img.shields.io/badge/44.68%25-Email_open_rate_·_2×_benchmark-121612?style=flat-square&labelColor=f2eee4)
-![ROI](https://img.shields.io/badge/6.6×-Campaign_ROI-e86f4c?style=flat-square&labelColor=121612)
+### Where I've worked
 
-</div>
+| Company | Role | Where | When |
+| --- | --- | --- | --- |
+| [Companial](https://companial.com/) | Product Marketing Manager — Enterprise & ISV | Amersfoort, NL | 2024 – Present |
+| Informa Markets · [Fi Global](https://webinars.figlobal.com/webinar-series/) | Senior Marketing Executive — Digital Products | Amsterdam, NL | 2022 – 2024 |
+| Informa Markets · [LEAP](https://onegiantleap.com/) | Marketing Executive — Tech Portfolio | Dubai, UAE | 2019 – 2022 |
 
-<br>
-
-## What I've built
-
-**Two marketing functions from zero, at [Companial](https://companial.com).** Enterprise and ISV partner marketing — proposition, audience, campaign architecture, and the commercial follow-up model behind them, not isolated campaigns.
-
-**A demand engine that holds up under a lean budget.** 24 personalized email journeys to 2,727 contacts, a LinkedIn campaign beating benchmark CTR by 26%, and a Coins Patron award at DynamicsMinds 2025 for the highest sponsor lead volume.
-
-**An AI-assisted workflow to remove the busywork.** A designed system (Asana intake → scheduled Claude agent → human approval) that turns 20 manual webinar workflows into one repeatable pipeline — full write-up in the portfolio below.
-
-<br>
-
-## Where I've worked
-
-<table align="center">
-<tr>
-<th align="left">Company</th>
-<th align="left">Role</th>
-<th align="left">Where</th>
-<th align="left">When</th>
-</tr>
-<tr>
-<td><b><a href="https://companial.com">Companial</a></b></td>
-<td>Product Marketing Manager — Enterprise &amp; ISV</td>
-<td>Amersfoort, NL</td>
-<td>2024 – Present</td>
-</tr>
-<tr>
-<td><b>Informa Markets</b> · <a href="https://webinars.figlobal.com/webinar-series/">Fi Global</a></td>
-<td>Senior Marketing Executive — Digital Products</td>
-<td>Amsterdam, NL</td>
-<td>2022 – 2024</td>
-</tr>
-<tr>
-<td><b>Informa Markets</b> · <a href="https://onegiantleap.com">LEAP</a></td>
-<td>Marketing Executive — Tech Portfolio</td>
-<td>Dubai, UAE</td>
-<td>2019 – 2022</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### [→ Read the full portfolio](https://github.com/Iszlam93/senior-marketing-portfolio)
-
-<sub>Case studies with ownership scope, evidence links, and measured results — Enterprise Membership, the ISV Partner Program, LEAP's launch, and the Fi Global webinar series.</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-[Islam-elsaid@outlook.com](mailto:Islam-elsaid@outlook.com) · [LinkedIn](https://www.linkedin.com/in/islam-el-saeed) · Leiden, Netherlands
-
-</div>
+</details>
