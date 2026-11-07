@@ -25,13 +25,6 @@ I build the marketing function, not just the campaign — positioning, partner p
 
 <br>
 
-## GitHub contributions
-
-[View my 2026 contribution calendar on GitHub](https://github.com/Iszlam93?tab=overview&from=2026-11-01&to=2026-11-07#contributions-calendar)
-
-
-<br>
-
 ## What I've built
 
 **Two marketing functions from zero, at [Companial](https://companial.com).** Enterprise and ISV partner marketing — proposition, audience, campaign architecture, and the commercial follow-up model behind them, not isolated campaigns.
