@@ -9,6 +9,14 @@ I build marketing functions from the ground up, from positioning and partner pro
 
 [Full portfolio](https://github.com/Iszlam93/senior-marketing-portfolio) · [LinkedIn](https://www.linkedin.com/in/islam-el-saeed) · [Email](mailto:Islam-elsaid@outlook.com) · Leiden, Netherlands
 
+### AI builds
+
+- **[competitor-ads-skill](https://github.com/Iszlam93/competitor-ads-skill)** (open source, MIT): a Claude skill. Say "check HubSpot ads" and Claude reads a competitor's ads in the public ad libraries, sums up the themes and offers, and can save every ad to your computer or Notion. Install guide and documentation included.
+- **[senior-marketing-portfolio](https://github.com/Iszlam93/senior-marketing-portfolio)**: this portfolio, built with Next.js and TypeScript.
+- **marketing-hq** (private, demo on request): prototype of an AI product marketing team. A "CMO" agent coordinates specialist agents, and nothing goes live without human approval. Clickable prototype only, with sample data. Backend and agents are the next phases.
+- **MarketMap** (private, demo on request): a visual workspace for planning marketing initiatives across the funnel and year.
+- **Orbit** (private, demo on request): an AI go-to-market OS, documentation-first.
+
 <details>
 <summary>What I've built and where I've worked</summary>
 
